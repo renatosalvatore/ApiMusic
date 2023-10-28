@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import imgLogin from "../../assets/images/logo2.png";
+import imgLogin from "../../assets/images/logo3.png";
 import Global from "../../Global/Global";
 import "./Login.css";
 
